@@ -16,7 +16,7 @@ SEO keyword maps, go-to-market strategy, interviews with users.
 
 ```mermaid
 flowchart LR
-    A[Brief] --> B[Research] --> C[Create] --> D[Review with data].
+    A[Brief] --> B[Research] --> C[Create] --> D[Review with data]
 ```
 
 ## My Marketing Stack
